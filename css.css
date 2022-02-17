@@ -1,0 +1,10 @@
+.list-group-item{
+    border: none;
+}
+#pfpicture {
+    float: right;
+}
+.main{
+    margin: auto;
+    width: 60%;
+}
