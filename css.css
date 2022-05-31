@@ -140,4 +140,8 @@
     background-position: center center;
     background-size: cover;
   }
+  p{
+    max-width: 75%;
+  }
+
   
